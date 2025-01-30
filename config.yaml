@@ -1,0 +1,6 @@
+interval_ms: 10000  # Screenshot interval in milliseconds
+save_dir: "screenshots"  # Directory to save screenshots
+region: []  # Leave empty to select region at runtime
+file_prefix: "screenshot"  # Prefix for screenshot filenames
+selection_mode: "manual" # 'manual' or 'interactive'
+retention_minutes: 1  # How long to keep images (in minutes)
